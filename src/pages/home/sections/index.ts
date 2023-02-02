@@ -1,0 +1,5 @@
+export * from './initialBanner/InitialBanner'
+export * from './benefit/Benefit'
+export * from './service/Service'
+export * from './customer/Customer'
+export * from './faq/Faq'
